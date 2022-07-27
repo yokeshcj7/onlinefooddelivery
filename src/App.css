@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    color: #000;
+    overflow-x: hidden;
+    height: 100%;
+    background-color: rgba(197, 197, 197, 0.61);
+}
+
+.clear{
+    clear: both;
+}
